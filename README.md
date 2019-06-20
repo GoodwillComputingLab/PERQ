@@ -4,3 +4,6 @@ Patel, Tirthak, and Tiwari, Devesh. "PERQ: Fair and Efficient Power Management o
 
 The paper can be found at:
 https://web.northeastern.edu/tiwari/wp-content/uploads/2019/06/2019_hpdc_perq.pdf
+
+Please fill out the following form to download PERQ data:
+https://forms.gle/XqfRJCKqFMZWYCvu8
